@@ -10,3 +10,6 @@ time/space behaviour
 # AI-Lab-Task-04-
 Apply heuristic evaluation functions and A* search to spatial pathfinding problems and evaluate
 optimality and efficiency against uninformed search
+# AI-Lab-Task-05-
+ Apply Minimax and Alpha-Beta pruning to game trees and explain how pruning reduces search while
+preserving the Minimax decision
