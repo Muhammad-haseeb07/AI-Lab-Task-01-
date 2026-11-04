@@ -13,3 +13,4 @@ optimality and efficiency against uninformed search
 # AI-Lab-Task-05-
  Apply Minimax and Alpha-Beta pruning to game trees and explain how pruning reduces search while
 preserving the Minimax decision
+# AI-Lab-Task-06-
