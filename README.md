@@ -7,3 +7,6 @@ paradigms.
 # AI-Lab-Task-03-
 Apply state-space formulation and uninformed search algorithms to problem graphs and compare their
 time/space behaviour
+# AI-Lab-Task-04-
+Apply heuristic evaluation functions and A* search to spatial pathfinding problems and evaluate
+optimality and efficiency against uninformed search
