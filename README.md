@@ -14,3 +14,5 @@ optimality and efficiency against uninformed search
  Apply Minimax and Alpha-Beta pruning to game trees and explain how pruning reduces search while
 preserving the Minimax decision
 # AI-Lab-Task-06-
+Apply tokenization, text embeddings and chunking to build a traceable text-retrieval pipeline, compare
+its behavior and explain its limitations
